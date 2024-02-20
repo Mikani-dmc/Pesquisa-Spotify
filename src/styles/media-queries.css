@@ -1,0 +1,25 @@
+@media screen and (min-width: 770px) and (max-width: 1069px) {
+  .offer__list-item {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1070px) and (max-width: 1319px) {
+  .offer__list-item {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1320px) and (max-width: 1549px) {
+  .offer__list-item {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1550px) and (max-width: 1900px) {
+  .offer__list-item {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+}
+
+
